@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" src="https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif">
 
-<h1 align="center">Hi 👋, I'm Abdallah Fayez</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Fayez</h1>
 <h3 align="center">Flutter Developer</h3>
 
 
